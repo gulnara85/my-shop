@@ -1,0 +1,23 @@
+export const SliderData = [
+    {
+        image:"https://cdn.shopify.com/s/files/1/0342/8951/6676/products/DSC_0419_6937d79b-a707-49ec-a4c8-8433f971ed3c_360x.jpg?v=1647264097"
+    },
+    {
+        image:'https://cdn.shopify.com/s/files/1/0342/8951/6676/products/DSC_0998_360x.jpg?v=1648757745'
+    },
+    {
+        image:'https://cdn.shopify.com/s/files/1/0342/8951/6676/products/DSC_4056_360x.jpg?v=1648757738'
+    },
+    {
+        image:'https://cdn.shopify.com/s/files/1/0342/8951/6676/products/DSC_0248_360x.jpg?v=1647982323'
+    },
+    {
+        image:'https://cdn.shopify.com/s/files/1/0342/8951/6676/products/DSC_0099_787d592f-225b-4910-93fa-675e99ab9104_360x.jpg?v=1646149283'
+    },
+    {
+        image:'https://cdn.shopify.com/s/files/1/0342/8951/6676/products/DSC_0292_67ba8251-563e-4790-89f1-c79fe19ecc09_360x.jpg?v=1646754949'
+    },
+    {
+        image:'https://cdn.shopify.com/s/files/1/0342/8951/6676/products/DSC_0540_b40b69d7-2fd1-4382-a30a-3b1df73f5ff4_360x.jpg?v=1642533962'
+    }
+]
