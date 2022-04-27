@@ -43,7 +43,7 @@ export const data = [
         searchTerm:"sweater",
         description:"This is a V-neck cardigan with dropped shoulders. The finest available.One size",
         price:40.00,
-        image:"https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/272585997_116101064308544_4089212813940953907_n.jpg?stp=dst-jpg_p720x720&_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=5vOHI_uhFk8AX9MvixY&_nc_ht=scontent-lga3-1.xx&oh=00_AT97PSQ5l9uCBdMkykY4ag2zYFBCq0hXlZVdQUooipIFYA&oe=6257E343",
+        image:"https://cdn.shopify.com/s/files/1/0559/7370/7836/products/BackgroundEraser_20220221_001625664_600x.jpg?v=1645420568",
         showMore:false
     },
     {
@@ -79,7 +79,7 @@ export const data = [
         searchTerm:"dress",
         description:"This  dress is beautiful and modern. It is unique and looks fashionable. It gives on a youthful vibe and vibrant looks quickly. Try this out if you love shorts.Dress (LARGE SIZE) Available in a universal size (XL-XXL).Color: Black ",
         price:60.00,
-        image:"https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/277350388_133207665931217_4779961219680283591_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=9N6R2dinT4gAX_lPsuW&_nc_ht=scontent-lga3-1.xx&oh=00_AT8pLQQ40Hf6gQakMb7sUw7qnhyWVvQdxAlopuY_0cfd4w&oe=6257B48F",
+        image:"https://cdn.shopify.com/s/files/1/0559/7370/7836/collections/BackgroundEraser-20220215-010227294_535x.jpg?v=1644904943",
         showMore:false
     },
     {
@@ -88,7 +88,7 @@ export const data = [
         searchTerm:"hoodie",
         description:"Hoodie dress menthol. Oversized ( S-L) loose fit hoodie dress is made of warm jersey with fleece and raincoat fabric: comfortable drawstring hood, dropped shoulder line, long sleeves on the cuff and roomy kangaroo pocket.Length 87 cm.",
         price:50.00,
-        image:"https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/272836919_113229287929055_2922063005557301878_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Jgzq8mRzepcAX8-mCqR&tn=OA4EMABJrBzWVSBh&_nc_ht=scontent-lga3-1.xx&oh=00_AT8i768m8btPNVaDhVKRv_mucjZZPBDxj6dMlky1pn0Flw&oe=6258CC5E",
+        image:"https://cdn.shopify.com/s/files/1/0559/7370/7836/products/BackgroundEraser_20220127_160342287_600x.jpg?v=1644170224",
         showMore:false
     },
     {
@@ -97,7 +97,7 @@ export const data = [
         searchTerm:"tracksuit",
         description:" Tracksuit is made of warm jersey and fleece and is decorated with a minimalist print with a lettering on the chest and leg. Consists of a loose sweatshirt with pockets and joggers with an elastic waistband. The length of the trousers along the side seam is -100 cm, sweaters - 67 cm.Available in two sizes: 1. S-M  2. M-L.Color: Green",
         price:60.00,
-        image:"https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/272886114_113251587926825_6853351806657414292_n.jpg?stp=dst-jpg_p720x720&_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=OwemChT5iGcAX8ma-BP&_nc_ht=scontent-lga3-1.xx&oh=00_AT_PQ-HgzfXW4sjHCmE179XQcNp3KVxi9wiTga0T-vqoWg&oe=6257AA35",
+        image:"https://cdn.shopify.com/s/files/1/0559/7370/7836/products/BackgroundEraser_20220127_174808600_600x.jpg?v=1643916420",
         showMore:false
     },
     {
@@ -106,7 +106,7 @@ export const data = [
         searchTerm:"leggings",
         description:"Women's leggings with Leather Patches. Made from dense stretch jersey and eco-leather. Tight-fitting leggings with imitation of over the knee boots. Belt included. S size - Hip up to 95 cm; M size - Hip up to 99 cm; L size - Hip up to 103 cm",
         price:60.00,
-        image:"https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/272783686_113257634592887_1801605306094273315_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=c3CMk4YxRWgAX8A7HzZ&_nc_ht=scontent-lga3-1.xx&oh=00_AT_fySQsz3TjU-1ol53N6mPB1YL635PpZ-G5XTx3C7eEuw&oe=625882B9",
+        image:"https://cdn.shopify.com/s/files/1/0559/7370/7836/products/BackgroundEraser_20220127_175352757_600x.jpg?v=1644456576",
         showMore:false
     }
     
